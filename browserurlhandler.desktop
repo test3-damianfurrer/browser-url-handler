@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Browser URL Handler
+Exec=/home/damian/scripts/browser-url-handler/openurl.sh %u
+StartupNotify=false
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
+NoDisplay=true
